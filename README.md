@@ -1,4 +1,5 @@
 # LEARNING LOG
+[Link to the Learning Log app](https://own-learning-log.herokuapp.com/)
 
 ## What Is Learning Log?
 This app helps keeping track of our learning path.
