@@ -30,5 +30,5 @@ Python Crash Course book, from NoStarch Press.
 
 
 ## To Do List
-[ ] On home page, when click on Topics AND no user logged in, it raises an exception
-[ ] Styling using Bootstrap
+[ ] On home page, when click on Topics AND no user logged in, it raises an exception  
+[ ] Styling using Bootstrap  
