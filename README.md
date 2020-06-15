@@ -25,4 +25,10 @@ This app made me practice:
 
 
 ## Ressources
-Python Crash Course book, from NoStarch Press
+Python Crash Course book, from NoStarch Press.
+(the tuto uses SQLite database, I replaced it with PostgreSQL)
+
+
+## To Do List
+[ ] On home page, when click on Topics AND no user logged in, it raises an exception
+[ ] Styling using Bootstrap
