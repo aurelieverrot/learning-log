@@ -8,6 +8,9 @@ The user can create a topic, and post a comment everytime she/he/they learned so
 
 Every comment is dated, and can be updated.
 
+![Home page](http://url/to/img.png)
+![Entry page](http://url/to/img.png)
+
 
 ## Purpose
 For personal use / practice.
