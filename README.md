@@ -8,8 +8,8 @@ The user can create a topic, and post a comment everytime she/he/they learned so
 
 Every comment is dated, and can be updated.
 
-![Home page](http://url/to/img.png)
-![Entry page](http://url/to/img.png)
+![Home page](https://raw.githubusercontent.com/aurelieverrot/learning-log/master/Screen%20Shot%201.png)
+![Entry page](https://raw.githubusercontent.com/aurelieverrot/learning-log/master/Screen%20Shot%202.png)
 
 
 ## Purpose
